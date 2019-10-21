@@ -15,7 +15,7 @@ https://projectlombok.org/
 
 ### Swagger
 https://swagger.io/
-* gera a documentação dp projeto
+* gera a documentação do projeto
 * Acesso: http://localhost:9999/swagger-ui.html
 
 ### H2
